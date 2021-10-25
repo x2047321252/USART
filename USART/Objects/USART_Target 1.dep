@@ -1,0 +1,2 @@
+Dependencies for Project 'USART', Target 'Target 1': (DO NOT MODIFY !)
+F (.\usart.s)(0x61741501)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-ID:\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-ID:\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 526" --pd "STM32F10X_MD SETA 1"--list .\listings\usart.lst --xref -o .\objects\usart.o --depend .\objects\usart.d)
